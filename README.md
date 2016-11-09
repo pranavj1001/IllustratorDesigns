@@ -2,4 +2,4 @@
 Designs that I have created using Adobe Illustrator 
 
 Hey there,
-I'm learning Adobe Illustrator and these repo has some of the designs which i made.
+I've been using Adobe Illustrator for a while now and this repo has some of the designs which I have made.
